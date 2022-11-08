@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p7 {
+public class p7{
     public static void main(String [] args){
         Scanner scan = new Scanner(System.in);
 
@@ -15,7 +15,8 @@ public class p7 {
                     System.out.print("\t");
                 }
             }
+
             System.out.println();
         }
-    }    
+    }
 }
