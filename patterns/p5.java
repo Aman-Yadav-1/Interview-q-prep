@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class p5{
     public static void main(String [] args){
         Scanner scan = new Scanner(System.in);
-
         int n = scan.nextInt();
 
         int space = n / 2;
