@@ -22,7 +22,6 @@ public class palinrome {
             rev = rev * 10 + rem;
             temp = temp / 10;
         }
-
         if(n == rev){
             System.out.println(n + " IS A PALINDROME NUMBER");
         }
