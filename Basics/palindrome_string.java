@@ -13,7 +13,6 @@ public class palindrome_string {
         for(int i = l - 1;i >= 0;i--){
             rev = rev + og.charAt(i);
         }
-
         if(og.equals(rev)){
             System.out.println(og + " is palindrome");
         }
